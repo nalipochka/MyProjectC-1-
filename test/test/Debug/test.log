@@ -1,0 +1,6 @@
+﻿  Source.cpp
+H:\Projects\test\test\Source.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+H:\Projects\test\test\Source.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+H:\Projects\test\test\Source.cpp(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+H:\Projects\test\test\Source.cpp(46,27): warning C4018: <: несоответствие типов со знаком и без знака
+  test.vcxproj -> H:\Projects\test\Debug\test.exe
